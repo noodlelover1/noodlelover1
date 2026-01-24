@@ -12,3 +12,8 @@ I contributed to [Nautilus OS](https://github.com/nautilus-os/NautilusOS)
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vercel,bash" alt="Languages"/>
 </p>
+
+### Stats
+
+![](https://raw.githubusercontent.com/noodlelover1/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/noodlelover1/github-stats/master/generated/overview.svg#gh-light-mode-only)
