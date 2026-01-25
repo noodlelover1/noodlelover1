@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="icon.png" width="150"/>
+</div>
 <h1 align="center">Hi 👋, I'm n00dle</h1>
 <h3 align="center">I make UBG websites and proxies</h3>
 
@@ -17,3 +20,6 @@ I contributed to [Nautilus OS](https://github.com/nautilus-os/NautilusOS)
 
 ![](https://raw.githubusercontent.com/noodlelover1/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/noodlelover1/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+
+yea i kept the default profile image lol
