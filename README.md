@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="icon.png" width="150"/>
-</div>
+
 <h1 align="center">Hi 👋, I'm n00dle</h1>
 <h3 align="center">I make UBG websites and proxies</h3>
 
