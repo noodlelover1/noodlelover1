@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm n00dle</h1>
 <h3 align="center">I make UBG websites and proxies</h3>
 
-I just released [Cloak.js](https://github.com/noodlelover1/cloak.js), a tab cloaking JavaScript library
+I just released [BeautiCode](https://github.com/noodlelover1/beauticode), a tool to convert ugly code snippets into clean PNG images.
+
+I created [Cloak.js](https://github.com/noodlelover1/cloak.js), a tab cloaking JavaScript library.
 
 I am working on [Coreus](https://github.com/noodlelover1/coreus), a single HTML file complete UBG website, that makes it completely unblockable by opening it with a data: url or pasting the code to a code editor and i am looking for collaborating on it.
 
