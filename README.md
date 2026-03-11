@@ -16,5 +16,9 @@ I also contributed to [Nautilus OS](https://github.com/nautilus-os/NautilusOS), 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vercel,bash" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vercel,bash,linux" alt="Languages"/>
 </p>
+
+<hr>
+
+![](https://komarev.com/ghpvc/?username=noodlelover1&style=for-the-badge&color=red)
