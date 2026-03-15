@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm n00dle</h1>
 <h3 align="center">I make UBG websites and proxies</h3>
 
-I just released [BeautiCode](https://github.com/noodlelover1/beauticode), a tool to convert ugly code snippets into clean PNG images.
+
+I am proud of [BeautiCode](https://github.com/noodlelover1/beauticode), a tool to convert ugly code snippets into clean PNG images.
 
 I created [Cloak.js](https://github.com/noodlelover1/cloak.js), a tab cloaking JavaScript library.
 
